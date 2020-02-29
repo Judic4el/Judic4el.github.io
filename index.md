@@ -1,6 +1,6 @@
 --- 
 layout: page
-title:  "L'électricité : Physique et Applications"
+title:  Electricité
 author: Judicael
 ---
 
