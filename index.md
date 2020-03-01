@@ -1,7 +1,4 @@
---- 
 layout: page
-title:  Electricité
-author: Judicael
----
+title:  "Electricity"
 
 Learn about electricity and electrical engineering.
