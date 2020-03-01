@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Electricity"
+title: Electricity
 ---
 
 Learn about electricity and electrical engineering.
