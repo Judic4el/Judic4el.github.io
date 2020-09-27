@@ -1,5 +1,5 @@
 title: Electricity
 description: une simple description
-markdown: kramdown
+markdown: gfm
 theme: jekyll-theme-architect
 show_downloads: false
